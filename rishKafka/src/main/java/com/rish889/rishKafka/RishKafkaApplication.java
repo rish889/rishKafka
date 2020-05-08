@@ -27,7 +27,6 @@ import java.util.Map;
  * docker stop rishkafka_kafka_1
  * docker stop rishkafka_zookeeper_1
  * docker-compose up -d
- * mvn spring-boot:run
  * <p>
  * <p>
  * docker exec -it rishkafka_kafka_1 /bin/bash
