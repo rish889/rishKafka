@@ -19,13 +19,6 @@ import org.springframework.kafka.support.serializer.JsonSerializer;
 import java.util.HashMap;
 import java.util.Map;
 
-
-git add pom.xml
-git add src/main/java/com/rish889/rishKafka/RishKafkaApplication.java
-git add src/main/resources/
-git add src/test/
-
-
 /**
  * docker-machine active
  * docker-machine start
